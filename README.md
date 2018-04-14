@@ -17,3 +17,6 @@ Some Features in this simple project:
 6. There is a Login and Logout process.
 
 7. Templating
+
+User = admin </br>
+Pass = admin
